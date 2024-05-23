@@ -33,6 +33,7 @@ li {
     max-width: 80%;
   }
 }
+
 header {
   padding-bottom: 24px;
 }
@@ -40,7 +41,9 @@ header .profile-avatar {
   display: block;
   margin: 0 auto 24px;
   border-radius: 50%;
+  width: 96px;
 }
+  
 .profile-bio {
   text-align: center;
 }
